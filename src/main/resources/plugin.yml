@@ -1,0 +1,4 @@
+name: RegCleaner
+version: '${project.version}'
+main: org.mrlstudio.regcleaner.RegCleanerPlugin
+softdepend: [LuckPerms, AuthMe]
